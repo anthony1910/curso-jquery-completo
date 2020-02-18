@@ -1,2 +1,2 @@
 # curso-jquery-introducao
-Este repositório possui os códigos desenvolvidos nas aulas introdutórias do curso jQuery - Curso Completo, da Hcode
+Este repositório possui os códigos de exemplo desenvolvidos no curso jQuery - Curso Completo, da Hcode Treinamentos
